@@ -7,7 +7,7 @@ Stata syntax (version 15.1) to replicate the findings
 Data:   
 NEPS Starting Cohort 1 – Data version: 5.0.0 – http://dx.doi.org/10.5157/NEPS:SC2:5.0.0   
 NEPS Starting Cohort 2 – Data version: 6.0.1 – http://dx.doi.org/10.5157/NEPS:SC2:6.0.1   
-NEPS Starting Cohort 2 – Data version: 7.0.1 – http://dx.doi.org/10.5157/NEPS:SC3:7.0.1   
+NEPS Starting Cohort 3 – Data version: 7.0.1 – http://dx.doi.org/10.5157/NEPS:SC3:7.0.1   
 
 ### Replicate the study's findings in 5 steps
 
